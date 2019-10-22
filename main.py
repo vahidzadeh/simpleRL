@@ -2,7 +2,6 @@ import numpy as np
 import pylab as plt
 
 MATRIX_SIZE = 3
-NUMBER_OF_STATES = 3
 
 R = np.matrix([
     [30., 30., -10.],
